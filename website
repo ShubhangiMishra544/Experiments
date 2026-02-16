@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  height: 100vh;
+  background: linear-gradient(#ff9a9e, #fad0c4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Georgia';
+}
+.quote {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 400px;
+}
+</style>
+</head>
+<body>
+  <div class="quote">
+    <h2>Just because I don't require much doesn't mean I deserve bare minimum”</h2>
+    <p>   -Anonymous</p>
+  </div>
+</body>
+</html>
